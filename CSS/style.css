@@ -1,0 +1,21 @@
+h1,h2{
+    color:rgb(70, 0, 136)
+}
+
+p{
+    color:blue;
+    border: 1px solid black;
+}
+
+.paragrafo-verde {
+    color:green;
+    text-align: center;
+}
+
+#p-especial {
+    color:gold
+}
+img {
+    width: 200;
+    height: 200;
+}
